@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Priyesh Choudhary</h1>
-<h3 align="center">A passionate froWeb Wizard by Day, Cyber Guardian by Night.ntend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Priyesh</h1>
+<h3 align="center">A passionate froWeb Wizard by Day, Cyber Guardian by Night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyeshkr18&label=Profile%20views&color=0e75b6&style=flat" alt="priyeshkr18" /> </p>
 

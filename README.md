@@ -1,6 +1,6 @@
-# 🚀 Software Developer | 🔬 Quantum Physics Enthusiast | 💻 Crafting Code, Exploring Quantum Realms
+# Software Developer | Quantum Physics Enthusiast | Crafting Code, Exploring Quantum Realms
 
-## I'm Priyesh
+## Hey! I'm Priyesh
 
 - 💻 Full-time Computer Science and Software Developer
 - 🔬 Part-time Quantum Physics Enthusiast

@@ -1,4 +1,4 @@
-# Hi there! 👋
+# 🚀 Software Developer | 🔬 Quantum Physics Enthusiast | 💻 Crafting Code, Exploring Quantum Realms
 
 ## I'm Priyesh
 

@@ -12,12 +12,7 @@
 </p>
 
 <!-- 3) Social + contact badges -->
-<p align="center">
-  <a href="https://github.com/priyeshkr18"><img src="https://img.shields.io/badge/GitHub-@priyeshkr18-181717?style=for-the-badge&logo=github" alt="github"/></a>
-  <a href="https://linkedin.com/in/priyeshchoudhary"><img src="https://img.shields.io/badge/LinkedIn-Priyesh-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
-  <a href="mailto:priyesh@example.com"><img src="https://img.shields.io/badge/Email-priyesh%40mail-ff69b4?style=for-the-badge&logo=gmail" alt="email"/></a>
-  <a href="https://twitter.com/priyeshkr18"><img src="https://img.shields.io/badge/Twitter-@priyeshkr18-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter"/></a>
-</p>
+
 
 <!-- 4) Hacker card + bio -->
 <p align="center">
